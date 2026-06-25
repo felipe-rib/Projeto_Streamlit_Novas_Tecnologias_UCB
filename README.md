@@ -59,7 +59,7 @@ A formação do **Cubo Analítico** (`cubo_analitico.csv`) é o resultado de um 
    ```
 3. **Execute a aplicação** a partir da raiz do projeto (`app`):
    ```bash
-   streamlit run app/app.py
+   python -m streamlit run app.py
    ```
 4. **Acesso:** O Streamlit abrirá automaticamente no seu navegador padrão, normalmente no endereço `http://localhost:8501`.
 
